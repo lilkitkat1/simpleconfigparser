@@ -19,6 +19,13 @@ ex_string = config.variables["ex_string"]
 ex_int = config.variables["ex_int"]
 ```
 
+## Config format
+The format is very simple. It is identical to how you assign variables in Python. Example:
+```
+int = 12345
+string = "A string"
+```
+
 ## To do
 - [ ] Add float support
 - [ ] Add boolean support
