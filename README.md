@@ -22,8 +22,8 @@ ex_int = config.variables["ex_int"]
 ## Config format
 The format is very simple. It is identical to how you assign variables in Python. Example:
 ```
-int = 12345
-string = "A string"
+ex_int = 12345
+ex_string = "A string"
 ```
 
 ## To do
