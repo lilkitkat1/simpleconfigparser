@@ -1,4 +1,4 @@
-# Simple Config Parser
+# Config Parser
 A very simple config file parser written in Python. It supports strings and integers.
 
 ## How to use
